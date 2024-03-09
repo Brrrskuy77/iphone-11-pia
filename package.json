@@ -1,0 +1,31 @@
+{
+  "name": "iphone-11-pia",
+  "version": "1.0.0",
+  "description": "Iphone ini dimiliki oleh user bernama Pia",
+  "main": "index.js",
+  "scripts": {
+    "test": "Iphone 11 Pia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/iphone-11-pia.git"
+  },
+  "keywords": [
+    "Iphone",
+    "kepemilikan",
+    "Pia"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/iphone-11-pia/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/iphone-11-pia#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
